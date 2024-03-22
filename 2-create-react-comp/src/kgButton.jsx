@@ -1,5 +1,5 @@
-function kgButton(){
-  return <button>Like this Video</button>
+function KgButton() {
+  return <button>Like this Video</button>;
 }
 
-export default kgButton
+export default KgButton;
