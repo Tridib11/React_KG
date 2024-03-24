@@ -8,7 +8,8 @@ function App() {
       <AppName/>
       <div class="container text-center">
         <AddTodo/>
-        <Todos/>      
+        <Todos title={"go to school"} date={"10/1/2024"}/>   
+        <Todos title={"go to gym"} date={"10/1/2025"}/>      
       </div>
     </center>
   );
