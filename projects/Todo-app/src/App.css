@@ -4,3 +4,16 @@ h1{
   margin: 10px;
   margin-bottom: 20p;
 }
+input{
+  width: 100%;
+}
+
+.items-container{
+  text-align: left;
+}
+.kg-row{
+  margin: 7px;
+}
+.kg-button{
+  min-width: 80px;
+}
